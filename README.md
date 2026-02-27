@@ -168,7 +168,7 @@ Four binary columns are added to segment attendees by role for easy counting and
 
 ## 📊 Phase 3 — Dashboard
 
-[Dashboard](assets/images/excel-event-dashboard.png)
+![Dashboard](assets/images/excel-event-dashboard.png)
 
 Each EDA question is answered with a dedicated metric or chart:
 
